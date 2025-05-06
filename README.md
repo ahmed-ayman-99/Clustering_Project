@@ -1,4 +1,4 @@
-# 🛍️ Mall Customers Clustering Project
+# Mall Customers Clustering Project
 
 This project is part of my Data Mining training at ITI, where I explored customer segmentation using clustering techniques to understand spending patterns and enable more effective customer targeting for the business.
 
@@ -30,11 +30,3 @@ The dataset used for this project is `Mall_Customers.csv`. It contains the follo
 3.  **Determining Optimal Number of Clusters:** Utilizing the **elbow method** to identify the optimal number of clusters (K) for the K-Means algorithm by analyzing the within-cluster sum of squares (WCSS) for different values of K.
 4.  **K-Means Clustering:** Applying the K-Means algorithm with the determined optimal number of clusters to group the customers into distinct segments.
 5.  **Cluster Visualization:** Visualizing the resulting customer clusters in relevant feature spaces (e.g., Annual Income vs. Spending Score) to understand the characteristics of each segment.
-
-
-## 🚀 Next Steps (Potential)
-
-* Further analysis of the identified clusters to understand demographic characteristics (Age, Gender) within each segment.
-* Developing targeted marketing strategies for each customer segment.
-* Exploring other clustering algorithms to compare results.
-* Analyzing the stability and robustness of the identified clusters.
